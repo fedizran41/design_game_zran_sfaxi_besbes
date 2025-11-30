@@ -2,7 +2,7 @@
 
 ## Retour au jeu
 Documentation Design Patterns  
-Projet de Module - Développement d'un Jeu Vidéo  
+Projet de Module - Design Patterns  
 
 Enseignant : Haythem Ghazouani | Année 2025-2026
 
